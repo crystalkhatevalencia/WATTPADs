@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#713f12"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="440" height="600" rx="24" fill="url(#g)"/><circle cx="210" cy="110" r="54" fill="#fde68a" opacity=".85"/><path d="M0 340 Q110 220 220 340 T440 330 V600 H0Z" fill="#fde68a" opacity=".4"/>
+<g fill="#fff" opacity=".75"><circle cx="343" cy="217" r="2"/><circle cx="404" cy="296" r="3"/><circle cx="45" cy="375" r="4"/><circle cx="106" cy="454" r="2"/><circle cx="167" cy="533" r="3"/><circle cx="228" cy="42" r="4"/><circle cx="289" cy="121" r="2"/><circle cx="350" cy="200" r="3"/><circle cx="411" cy="279" r="4"/><circle cx="52" cy="358" r="2"/><circle cx="113" cy="437" r="3"/><circle cx="174" cy="516" r="4"/><circle cx="235" cy="25" r="2"/><circle cx="296" cy="104" r="3"/><circle cx="357" cy="183" r="4"/><circle cx="418" cy="262" r="2"/><circle cx="59" cy="341" r="3"/><circle cx="120" cy="420" r="4"/></g>
+<rect x="22" y="425" width="396" height="150" rx="16" fill="#020617" opacity=".65"/>
+<text x="220" y="462" text-anchor="middle" fill="#fde68a" font-family="Georgia,serif" font-size="15" letter-spacing="4">STORYVERSE • 09</text>
+<text x="220" y="505" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="30" font-weight="bold">The Star Map</text>
+<text x="220" y="540" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="15">by Nia Velasco</text>
+</svg>

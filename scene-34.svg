@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3f1d2e"/><stop offset="1" stop-color="#020617"/></linearGradient></defs>
+<rect width="1000" height="520" fill="url(#bg)"/>
+<circle cx="770" cy="120" r="95" fill="#fb7185" opacity=".75"/>
+<path d="M0 430 Q170 300 340 420 T680 400 T1000 390 V520 H0Z" fill="#fb7185" opacity=".3"/>
+<path d="M80 390 Q240 260 400 390 T720 370" stroke="#fb7185" stroke-width="5" fill="none" opacity=".8"/>
+<g fill="#fff" opacity=".7"><circle cx="353" cy="37" r="2"/><circle cx="436" cy="90" r="3"/><circle cx="519" cy="143" r="4"/><circle cx="602" cy="196" r="2"/><circle cx="685" cy="249" r="3"/><circle cx="768" cy="302" r="4"/><circle cx="851" cy="355" r="2"/><circle cx="934" cy="408" r="3"/><circle cx="47" cy="461" r="4"/><circle cx="130" cy="34" r="2"/><circle cx="213" cy="87" r="3"/><circle cx="296" cy="140" r="4"/><circle cx="379" cy="193" r="2"/><circle cx="462" cy="246" r="3"/><circle cx="545" cy="299" r="4"/><circle cx="628" cy="352" r="2"/><circle cx="711" cy="405" r="3"/><circle cx="794" cy="458" r="4"/><circle cx="877" cy="31" r="2"/><circle cx="960" cy="84" r="3"/><circle cx="73" cy="137" r="4"/><circle cx="156" cy="190" r="2"/><circle cx="239" cy="243" r="3"/><circle cx="322" cy="296" r="4"/></g>
+<text x="55" y="80" fill="#fb7185" font-family="Arial,sans-serif" font-size="20" letter-spacing="6">STORYVERSE • STORY SCENE</text>
+<text x="55" y="145" fill="#fff" font-family="Georgia,serif" font-size="38">The Day Gravity Paused</text>
+<text x="55" y="190" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="20">Speculative Fiction • Chapter One</text>
+</svg>

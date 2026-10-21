@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e3a8a"/><stop offset="1" stop-color="#020617"/></linearGradient></defs>
+<rect width="1000" height="520" fill="url(#bg)"/>
+<circle cx="770" cy="120" r="95" fill="#93c5fd" opacity=".75"/>
+<path d="M0 430 Q170 300 340 420 T680 400 T1000 390 V520 H0Z" fill="#93c5fd" opacity=".3"/>
+<path d="M80 390 Q240 260 400 390 T720 370" stroke="#93c5fd" stroke-width="5" fill="none" opacity=".8"/>
+<g fill="#fff" opacity=".7"><circle cx="251" cy="309" r="2"/><circle cx="334" cy="362" r="3"/><circle cx="417" cy="415" r="4"/><circle cx="500" cy="468" r="2"/><circle cx="583" cy="41" r="3"/><circle cx="666" cy="94" r="4"/><circle cx="749" cy="147" r="2"/><circle cx="832" cy="200" r="3"/><circle cx="915" cy="253" r="4"/><circle cx="28" cy="306" r="2"/><circle cx="111" cy="359" r="3"/><circle cx="194" cy="412" r="4"/><circle cx="277" cy="465" r="2"/><circle cx="360" cy="38" r="3"/><circle cx="443" cy="91" r="4"/><circle cx="526" cy="144" r="2"/><circle cx="609" cy="197" r="3"/><circle cx="692" cy="250" r="4"/><circle cx="775" cy="303" r="2"/><circle cx="858" cy="356" r="3"/><circle cx="941" cy="409" r="4"/><circle cx="54" cy="462" r="2"/><circle cx="137" cy="35" r="3"/><circle cx="220" cy="88" r="4"/></g>
+<text x="55" y="80" fill="#93c5fd" font-family="Arial,sans-serif" font-size="20" letter-spacing="6">STORYVERSE • STORY SCENE</text>
+<text x="55" y="145" fill="#fff" font-family="Georgia,serif" font-size="38">The Mountain's Secret</text>
+<text x="55" y="190" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="20">Nature • Chapter One</text>
+</svg>

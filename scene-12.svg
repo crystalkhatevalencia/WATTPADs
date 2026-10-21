@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#312e81"/><stop offset="1" stop-color="#020617"/></linearGradient></defs>
+<rect width="1000" height="520" fill="url(#bg)"/>
+<circle cx="770" cy="120" r="95" fill="#c084fc" opacity=".75"/>
+<path d="M0 430 Q170 300 340 420 T680 400 T1000 390 V520 H0Z" fill="#c084fc" opacity=".3"/>
+<path d="M80 390 Q240 260 400 390 T720 370" stroke="#c084fc" stroke-width="5" fill="none" opacity=".8"/>
+<g fill="#fff" opacity=".7"><circle cx="819" cy="51" r="2"/><circle cx="902" cy="104" r="3"/><circle cx="15" cy="157" r="4"/><circle cx="98" cy="210" r="2"/><circle cx="181" cy="263" r="3"/><circle cx="264" cy="316" r="4"/><circle cx="347" cy="369" r="2"/><circle cx="430" cy="422" r="3"/><circle cx="513" cy="475" r="4"/><circle cx="596" cy="48" r="2"/><circle cx="679" cy="101" r="3"/><circle cx="762" cy="154" r="4"/><circle cx="845" cy="207" r="2"/><circle cx="928" cy="260" r="3"/><circle cx="41" cy="313" r="4"/><circle cx="124" cy="366" r="2"/><circle cx="207" cy="419" r="3"/><circle cx="290" cy="472" r="4"/><circle cx="373" cy="45" r="2"/><circle cx="456" cy="98" r="3"/><circle cx="539" cy="151" r="4"/><circle cx="622" cy="204" r="2"/><circle cx="705" cy="257" r="3"/><circle cx="788" cy="310" r="4"/></g>
+<text x="55" y="80" fill="#c084fc" font-family="Arial,sans-serif" font-size="20" letter-spacing="6">STORYVERSE • STORY SCENE</text>
+<text x="55" y="145" fill="#fff" font-family="Georgia,serif" font-size="38">The Clockwork Garden</text>
+<text x="55" y="190" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="20">Steampunk • Chapter One</text>
+</svg>

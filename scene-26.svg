@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3b0764"/><stop offset="1" stop-color="#020617"/></linearGradient></defs>
+<rect width="1000" height="520" fill="url(#bg)"/>
+<circle cx="770" cy="120" r="95" fill="#e9d5ff" opacity=".75"/>
+<path d="M0 430 Q170 300 340 420 T680 400 T1000 390 V520 H0Z" fill="#e9d5ff" opacity=".3"/>
+<path d="M80 390 Q240 260 400 390 T720 370" stroke="#e9d5ff" stroke-width="5" fill="none" opacity=".8"/>
+<g fill="#fff" opacity=".7"><circle cx="787" cy="173" r="2"/><circle cx="870" cy="226" r="3"/><circle cx="953" cy="279" r="4"/><circle cx="66" cy="332" r="2"/><circle cx="149" cy="385" r="3"/><circle cx="232" cy="438" r="4"/><circle cx="315" cy="491" r="2"/><circle cx="398" cy="64" r="3"/><circle cx="481" cy="117" r="4"/><circle cx="564" cy="170" r="2"/><circle cx="647" cy="223" r="3"/><circle cx="730" cy="276" r="4"/><circle cx="813" cy="329" r="2"/><circle cx="896" cy="382" r="3"/><circle cx="979" cy="435" r="4"/><circle cx="92" cy="488" r="2"/><circle cx="175" cy="61" r="3"/><circle cx="258" cy="114" r="4"/><circle cx="341" cy="167" r="2"/><circle cx="424" cy="220" r="3"/><circle cx="507" cy="273" r="4"/><circle cx="590" cy="326" r="2"/><circle cx="673" cy="379" r="3"/><circle cx="756" cy="432" r="4"/></g>
+<text x="55" y="80" fill="#e9d5ff" font-family="Arial,sans-serif" font-size="20" letter-spacing="6">STORYVERSE • STORY SCENE</text>
+<text x="55" y="145" fill="#fff" font-family="Georgia,serif" font-size="38">The Hidden Library</text>
+<text x="55" y="190" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="20">Fantasy Adventure • Chapter One</text>
+</svg>

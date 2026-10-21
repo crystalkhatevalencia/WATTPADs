@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#164e63"/><stop offset="1" stop-color="#020617"/></linearGradient></defs>
+<rect width="1000" height="520" fill="url(#bg)"/>
+<circle cx="770" cy="120" r="95" fill="#67e8f9" opacity=".75"/>
+<path d="M0 430 Q170 300 340 420 T680 400 T1000 390 V520 H0Z" fill="#67e8f9" opacity=".3"/>
+<path d="M80 390 Q240 260 400 390 T720 370" stroke="#67e8f9" stroke-width="5" fill="none" opacity=".8"/>
+<g fill="#fff" opacity=".7"><circle cx="586" cy="44" r="2"/><circle cx="669" cy="97" r="3"/><circle cx="752" cy="150" r="4"/><circle cx="835" cy="203" r="2"/><circle cx="918" cy="256" r="3"/><circle cx="31" cy="309" r="4"/><circle cx="114" cy="362" r="2"/><circle cx="197" cy="415" r="3"/><circle cx="280" cy="468" r="4"/><circle cx="363" cy="41" r="2"/><circle cx="446" cy="94" r="3"/><circle cx="529" cy="147" r="4"/><circle cx="612" cy="200" r="2"/><circle cx="695" cy="253" r="3"/><circle cx="778" cy="306" r="4"/><circle cx="861" cy="359" r="2"/><circle cx="944" cy="412" r="3"/><circle cx="57" cy="465" r="4"/><circle cx="140" cy="38" r="2"/><circle cx="223" cy="91" r="3"/><circle cx="306" cy="144" r="4"/><circle cx="389" cy="197" r="2"/><circle cx="472" cy="250" r="3"/><circle cx="555" cy="303" r="4"/></g>
+<text x="55" y="80" fill="#67e8f9" font-family="Arial,sans-serif" font-size="20" letter-spacing="6">STORYVERSE • STORY SCENE</text>
+<text x="55" y="145" fill="#fff" font-family="Georgia,serif" font-size="38">The Borrowed Shadow</text>
+<text x="55" y="190" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="20">Supernatural • Chapter One</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#164e63"/><stop offset="1" stop-color="#020617"/></linearGradient></defs>
+<rect width="1000" height="520" fill="url(#bg)"/>
+<circle cx="770" cy="120" r="95" fill="#67e8f9" opacity=".75"/>
+<path d="M0 430 Q170 300 340 420 T680 400 T1000 390 V520 H0Z" fill="#67e8f9" opacity=".3"/>
+<path d="M80 390 Q240 260 400 390 T720 370" stroke="#67e8f9" stroke-width="5" fill="none" opacity=".8"/>
+<g fill="#fff" opacity=".7"><circle cx="886" cy="94" r="2"/><circle cx="969" cy="147" r="3"/><circle cx="82" cy="200" r="4"/><circle cx="165" cy="253" r="2"/><circle cx="248" cy="306" r="3"/><circle cx="331" cy="359" r="4"/><circle cx="414" cy="412" r="2"/><circle cx="497" cy="465" r="3"/><circle cx="580" cy="38" r="4"/><circle cx="663" cy="91" r="2"/><circle cx="746" cy="144" r="3"/><circle cx="829" cy="197" r="4"/><circle cx="912" cy="250" r="2"/><circle cx="25" cy="303" r="3"/><circle cx="108" cy="356" r="4"/><circle cx="191" cy="409" r="2"/><circle cx="274" cy="462" r="3"/><circle cx="357" cy="35" r="4"/><circle cx="440" cy="88" r="2"/><circle cx="523" cy="141" r="3"/><circle cx="606" cy="194" r="4"/><circle cx="689" cy="247" r="2"/><circle cx="772" cy="300" r="3"/><circle cx="855" cy="353" r="4"/></g>
+<text x="55" y="80" fill="#67e8f9" font-family="Arial,sans-serif" font-size="20" letter-spacing="6">STORYVERSE • STORY SCENE</text>
+<text x="55" y="145" fill="#fff" font-family="Georgia,serif" font-size="38">Letters from the Sea</text>
+<text x="55" y="190" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="20">Drama • Chapter One</text>
+</svg>

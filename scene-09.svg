@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#713f12"/><stop offset="1" stop-color="#020617"/></linearGradient></defs>
+<rect width="1000" height="520" fill="url(#bg)"/>
+<circle cx="770" cy="120" r="95" fill="#fde68a" opacity=".75"/>
+<path d="M0 430 Q170 300 340 420 T680 400 T1000 390 V520 H0Z" fill="#fde68a" opacity=".3"/>
+<path d="M80 390 Q240 260 400 390 T720 370" stroke="#fde68a" stroke-width="5" fill="none" opacity=".8"/>
+<g fill="#fff" opacity=".7"><circle cx="618" cy="402" r="2"/><circle cx="701" cy="455" r="3"/><circle cx="784" cy="28" r="4"/><circle cx="867" cy="81" r="2"/><circle cx="950" cy="134" r="3"/><circle cx="63" cy="187" r="4"/><circle cx="146" cy="240" r="2"/><circle cx="229" cy="293" r="3"/><circle cx="312" cy="346" r="4"/><circle cx="395" cy="399" r="2"/><circle cx="478" cy="452" r="3"/><circle cx="561" cy="25" r="4"/><circle cx="644" cy="78" r="2"/><circle cx="727" cy="131" r="3"/><circle cx="810" cy="184" r="4"/><circle cx="893" cy="237" r="2"/><circle cx="976" cy="290" r="3"/><circle cx="89" cy="343" r="4"/><circle cx="172" cy="396" r="2"/><circle cx="255" cy="449" r="3"/><circle cx="338" cy="22" r="4"/><circle cx="421" cy="75" r="2"/><circle cx="504" cy="128" r="3"/><circle cx="587" cy="181" r="4"/></g>
+<text x="55" y="80" fill="#fde68a" font-family="Arial,sans-serif" font-size="20" letter-spacing="6">STORYVERSE • STORY SCENE</text>
+<text x="55" y="145" fill="#fff" font-family="Georgia,serif" font-size="38">The Star Map</text>
+<text x="55" y="190" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="20">Adventure • Chapter One</text>
+</svg>

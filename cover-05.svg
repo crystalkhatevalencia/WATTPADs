@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#14532d"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="440" height="600" rx="24" fill="url(#g)"/><circle cx="210" cy="110" r="54" fill="#86efac" opacity=".85"/><path d="M0 340 Q110 220 220 340 T440 330 V600 H0Z" fill="#86efac" opacity=".4"/>
+<g fill="#fff" opacity=".75"><circle cx="195" cy="125" r="2"/><circle cx="256" cy="204" r="3"/><circle cx="317" cy="283" r="4"/><circle cx="378" cy="362" r="2"/><circle cx="19" cy="441" r="3"/><circle cx="80" cy="520" r="4"/><circle cx="141" cy="29" r="2"/><circle cx="202" cy="108" r="3"/><circle cx="263" cy="187" r="4"/><circle cx="324" cy="266" r="2"/><circle cx="385" cy="345" r="3"/><circle cx="26" cy="424" r="4"/><circle cx="87" cy="503" r="2"/><circle cx="148" cy="12" r="3"/><circle cx="209" cy="91" r="4"/><circle cx="270" cy="170" r="2"/><circle cx="331" cy="249" r="3"/><circle cx="392" cy="328" r="4"/></g>
+<rect x="22" y="425" width="396" height="150" rx="16" fill="#020617" opacity=".65"/>
+<text x="220" y="462" text-anchor="middle" fill="#86efac" font-family="Georgia,serif" font-size="15" letter-spacing="4">STORYVERSE • 05</text>
+<text x="220" y="505" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="30" font-weight="bold">The Paper Crane Club</text>
+<text x="220" y="540" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="15">by Bea Lim</text>
+</svg>

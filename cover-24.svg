@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3f1d2e"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="440" height="600" rx="24" fill="url(#g)"/><path d="M70 390 Q220 100 370 390Z" fill="#fb7185" opacity=".65"/><circle cx="220" cy="230" r="45" fill="#fb7185"/>
+<g fill="#fff" opacity=".75"><circle cx="58" cy="562" r="2"/><circle cx="119" cy="71" r="3"/><circle cx="180" cy="150" r="4"/><circle cx="241" cy="229" r="2"/><circle cx="302" cy="308" r="3"/><circle cx="363" cy="387" r="4"/><circle cx="424" cy="466" r="2"/><circle cx="65" cy="545" r="3"/><circle cx="126" cy="54" r="4"/><circle cx="187" cy="133" r="2"/><circle cx="248" cy="212" r="3"/><circle cx="309" cy="291" r="4"/><circle cx="370" cy="370" r="2"/><circle cx="11" cy="449" r="3"/><circle cx="72" cy="528" r="4"/><circle cx="133" cy="37" r="2"/><circle cx="194" cy="116" r="3"/><circle cx="255" cy="195" r="4"/></g>
+<rect x="22" y="425" width="396" height="150" rx="16" fill="#020617" opacity=".65"/>
+<text x="220" y="462" text-anchor="middle" fill="#fb7185" font-family="Georgia,serif" font-size="15" letter-spacing="4">STORYVERSE • 24</text>
+<text x="220" y="505" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="30" font-weight="bold">The Final Level</text>
+<text x="220" y="540" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="15">by Avery Cruz</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e3a8a"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="440" height="600" rx="24" fill="url(#g)"/><path d="M220 70 L255 190 L380 205 L285 285 L310 410 L220 345 L130 410 L155 285 L60 205 L185 190Z" fill="#93c5fd" opacity=".82"/>
+<g fill="#fff" opacity=".75"><circle cx="256" cy="424" r="2"/><circle cx="317" cy="503" r="3"/><circle cx="378" cy="12" r="4"/><circle cx="19" cy="91" r="2"/><circle cx="80" cy="170" r="3"/><circle cx="141" cy="249" r="4"/><circle cx="202" cy="328" r="2"/><circle cx="263" cy="407" r="3"/><circle cx="324" cy="486" r="4"/><circle cx="385" cy="565" r="2"/><circle cx="26" cy="74" r="3"/><circle cx="87" cy="153" r="4"/><circle cx="148" cy="232" r="2"/><circle cx="209" cy="311" r="3"/><circle cx="270" cy="390" r="4"/><circle cx="331" cy="469" r="2"/><circle cx="392" cy="548" r="3"/><circle cx="33" cy="57" r="4"/></g>
+<rect x="22" y="425" width="396" height="150" rx="16" fill="#020617" opacity=".65"/>
+<text x="220" y="462" text-anchor="middle" fill="#93c5fd" font-family="Georgia,serif" font-size="15" letter-spacing="4">STORYVERSE • 18</text>
+<text x="220" y="505" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="30" font-weight="bold">The Mountain's Secret</text>
+<text x="220" y="540" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="15">by Amihan Reyes</text>
+</svg>

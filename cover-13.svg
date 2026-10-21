@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#164e63"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="440" height="600" rx="24" fill="url(#g)"/><circle cx="210" cy="110" r="54" fill="#67e8f9" opacity=".85"/><path d="M0 340 Q110 220 220 340 T440 330 V600 H0Z" fill="#67e8f9" opacity=".4"/>
+<g fill="#fff" opacity=".75"><circle cx="71" cy="309" r="2"/><circle cx="132" cy="388" r="3"/><circle cx="193" cy="467" r="4"/><circle cx="254" cy="546" r="2"/><circle cx="315" cy="55" r="3"/><circle cx="376" cy="134" r="4"/><circle cx="17" cy="213" r="2"/><circle cx="78" cy="292" r="3"/><circle cx="139" cy="371" r="4"/><circle cx="200" cy="450" r="2"/><circle cx="261" cy="529" r="3"/><circle cx="322" cy="38" r="4"/><circle cx="383" cy="117" r="2"/><circle cx="24" cy="196" r="3"/><circle cx="85" cy="275" r="4"/><circle cx="146" cy="354" r="2"/><circle cx="207" cy="433" r="3"/><circle cx="268" cy="512" r="4"/></g>
+<rect x="22" y="425" width="396" height="150" rx="16" fill="#020617" opacity=".65"/>
+<text x="220" y="462" text-anchor="middle" fill="#67e8f9" font-family="Georgia,serif" font-size="15" letter-spacing="4">STORYVERSE • 13</text>
+<text x="220" y="505" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="30" font-weight="bold">Letters from the Sea</text>
+<text x="220" y="540" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="15">by Mara Villanueva</text>
+</svg>

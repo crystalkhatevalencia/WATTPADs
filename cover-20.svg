@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#334155"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="440" height="600" rx="24" fill="url(#g)"/><path d="M70 390 Q220 100 370 390Z" fill="#cbd5e1" opacity=".65"/><circle cx="220" cy="230" r="45" fill="#cbd5e1"/>
+<g fill="#fff" opacity=".75"><circle cx="330" cy="470" r="2"/><circle cx="391" cy="549" r="3"/><circle cx="32" cy="58" r="4"/><circle cx="93" cy="137" r="2"/><circle cx="154" cy="216" r="3"/><circle cx="215" cy="295" r="4"/><circle cx="276" cy="374" r="2"/><circle cx="337" cy="453" r="3"/><circle cx="398" cy="532" r="4"/><circle cx="39" cy="41" r="2"/><circle cx="100" cy="120" r="3"/><circle cx="161" cy="199" r="4"/><circle cx="222" cy="278" r="2"/><circle cx="283" cy="357" r="3"/><circle cx="344" cy="436" r="4"/><circle cx="405" cy="515" r="2"/><circle cx="46" cy="24" r="3"/><circle cx="107" cy="103" r="4"/></g>
+<rect x="22" y="425" width="396" height="150" rx="16" fill="#020617" opacity=".65"/>
+<text x="220" y="462" text-anchor="middle" fill="#cbd5e1" font-family="Georgia,serif" font-size="15" letter-spacing="4">STORYVERSE • 20</text>
+<text x="220" y="505" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="30" font-weight="bold">Orbit of Two</text>
+<text x="220" y="540" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="15">by Luna Santiago</text>
+</svg>

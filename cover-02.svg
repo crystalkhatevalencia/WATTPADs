@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#312e81"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="440" height="600" rx="24" fill="url(#g)"/><path d="M220 70 L255 190 L380 205 L285 285 L310 410 L220 345 L130 410 L155 285 L60 205 L185 190Z" fill="#c084fc" opacity=".82"/>
+<g fill="#fff" opacity=".75"><circle cx="84" cy="56" r="2"/><circle cx="145" cy="135" r="3"/><circle cx="206" cy="214" r="4"/><circle cx="267" cy="293" r="2"/><circle cx="328" cy="372" r="3"/><circle cx="389" cy="451" r="4"/><circle cx="30" cy="530" r="2"/><circle cx="91" cy="39" r="3"/><circle cx="152" cy="118" r="4"/><circle cx="213" cy="197" r="2"/><circle cx="274" cy="276" r="3"/><circle cx="335" cy="355" r="4"/><circle cx="396" cy="434" r="2"/><circle cx="37" cy="513" r="3"/><circle cx="98" cy="22" r="4"/><circle cx="159" cy="101" r="2"/><circle cx="220" cy="180" r="3"/><circle cx="281" cy="259" r="4"/></g>
+<rect x="22" y="425" width="396" height="150" rx="16" fill="#020617" opacity=".65"/>
+<text x="220" y="462" text-anchor="middle" fill="#c084fc" font-family="Georgia,serif" font-size="15" letter-spacing="4">STORYVERSE • 02</text>
+<text x="220" y="505" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="30" font-weight="bold">The Last Dragon Keeper</text>
+<text x="220" y="540" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="15">by Noah Reyes</text>
+</svg>

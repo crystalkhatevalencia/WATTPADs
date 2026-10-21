@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e3a8a"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="440" height="600" rx="24" fill="url(#g)"/><path d="M70 390 Q220 100 370 390Z" fill="#93c5fd" opacity=".65"/><circle cx="220" cy="230" r="45" fill="#93c5fd"/>
+<g fill="#fff" opacity=".75"><circle cx="306" cy="194" r="2"/><circle cx="367" cy="273" r="3"/><circle cx="428" cy="352" r="4"/><circle cx="69" cy="431" r="2"/><circle cx="130" cy="510" r="3"/><circle cx="191" cy="19" r="4"/><circle cx="252" cy="98" r="2"/><circle cx="313" cy="177" r="3"/><circle cx="374" cy="256" r="4"/><circle cx="15" cy="335" r="2"/><circle cx="76" cy="414" r="3"/><circle cx="137" cy="493" r="4"/><circle cx="198" cy="572" r="2"/><circle cx="259" cy="81" r="3"/><circle cx="320" cy="160" r="4"/><circle cx="381" cy="239" r="2"/><circle cx="22" cy="318" r="3"/><circle cx="83" cy="397" r="4"/></g>
+<rect x="22" y="425" width="396" height="150" rx="16" fill="#020617" opacity=".65"/>
+<text x="220" y="462" text-anchor="middle" fill="#93c5fd" font-family="Georgia,serif" font-size="15" letter-spacing="4">STORYVERSE • 08</text>
+<text x="220" y="505" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="30" font-weight="bold">The Goal Beyond the Net</text>
+<text x="220" y="540" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="15">by Rafael Dizon</text>
+</svg>

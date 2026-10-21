@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="StoryVerse — a storybook-style reading library.">
+<title>StoryVerse | Discover your next story</title><link rel="stylesheet" href="style.css">
+<script src="stories.js" defer></script><script src="script.js" defer></script>
+</head>
+<body>
+<header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">✦</span> StoryVerse</a>
+<nav aria-label="Main navigation"><a class="active" href="index.html">Home</a><a href="#library">Library</a><a href="#about">About</a></nav>
+<div class="header-actions"><button id="themeToggle" class="icon-btn" aria-label="Toggle dark or light mode">☾</button></div></header>
+<main>
+<section class="hero"><div class="hero-copy"><p class="eyebrow">YOUR NEXT CHAPTER STARTS HERE</p><h1>Stories for every<br><span>kind of imagination.</span></h1><p class="hero-desc">Find a new world, meet unforgettable characters, and take a little time to get lost in a story.</p><a class="primary-btn" href="#library">Explore the library <span>→</span></a><div class="hero-stats"><div><strong>30</strong><small>Original stories</small></div><div><strong>30</strong><small>Genres & moods</small></div><div><strong>∞</strong><small>Ways to imagine</small></div></div></div>
+<div class="hero-art"><div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="floating-note note-one">✧ Find your next favorite</div><div class="floating-note note-two">☁ Read • Dream • Repeat</div><div class="hero-book"><div class="book-spark">✦</div><p>STORYVERSE<br><b>OPEN A<br>NEW WORLD</b></p><span>ONE CHAPTER AT A TIME</span></div></div></section>
+<section id="library" class="library-section"><div class="section-heading"><div><p class="eyebrow">THE COLLECTION</p><h2>Explore the library</h2><p class="muted">Thirty original one-chapter stories, ready to discover.</p></div><span class="count-pill" id="storyCount">30 stories</span></div>
+<div class="tools"><label class="search-wrap"><span>⌕</span><input id="searchInput" type="search" placeholder="Search titles, authors, genres..." aria-label="Search stories"></label><select id="genreFilter" aria-label="Filter by genre"><option value="all">All genres</option></select><select id="sortFilter" aria-label="Sort stories"><option value="default">Featured order</option><option value="title">Title A–Z</option><option value="likes">Most liked</option></select></div>
+<div id="storyGrid" class="story-grid" aria-live="polite"></div><p id="emptyState" class="empty-state" hidden>No stories found. Try another title or genre.</p></section>
+<section id="about" class="about-section"><div class="about-symbol">✧</div><div><p class="eyebrow">A LITTLE ABOUT STORYVERSE</p><h2>Every cover holds a new beginning.</h2><p>StoryVerse is a student storybook project built with semantic HTML, one shared CSS file, and an external JavaScript file. Browse, like, search, switch themes, and enjoy a complete single-chapter story.</p></div></section>
+</main><footer class="site-footer"><a class="brand" href="index.html"><span class="brand-mark">✦</span> StoryVerse</a><p>Made for curious minds and late-night readers.</p><span>ITE 1 • Individual Project</span></footer>
+</body></html>

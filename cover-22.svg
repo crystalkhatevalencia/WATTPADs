@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#312e81"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="440" height="600" rx="24" fill="url(#g)"/><path d="M220 70 L255 190 L380 205 L285 285 L310 410 L220 345 L130 410 L155 285 L60 205 L185 190Z" fill="#c084fc" opacity=".82"/>
+<g fill="#fff" opacity=".75"><circle cx="404" cy="516" r="2"/><circle cx="45" cy="25" r="3"/><circle cx="106" cy="104" r="4"/><circle cx="167" cy="183" r="2"/><circle cx="228" cy="262" r="3"/><circle cx="289" cy="341" r="4"/><circle cx="350" cy="420" r="2"/><circle cx="411" cy="499" r="3"/><circle cx="52" cy="578" r="4"/><circle cx="113" cy="87" r="2"/><circle cx="174" cy="166" r="3"/><circle cx="235" cy="245" r="4"/><circle cx="296" cy="324" r="2"/><circle cx="357" cy="403" r="3"/><circle cx="418" cy="482" r="4"/><circle cx="59" cy="561" r="2"/><circle cx="120" cy="70" r="3"/><circle cx="181" cy="149" r="4"/></g>
+<rect x="22" y="425" width="396" height="150" rx="16" fill="#020617" opacity=".65"/>
+<text x="220" y="462" text-anchor="middle" fill="#c084fc" font-family="Georgia,serif" font-size="15" letter-spacing="4">STORYVERSE • 22</text>
+<text x="220" y="505" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="30" font-weight="bold">The Lantern Festival</text>
+<text x="220" y="540" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="15">by Isla Domingo</text>
+</svg>

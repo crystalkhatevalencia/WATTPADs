@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3f1d2e"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="440" height="600" rx="24" fill="url(#g)"/><path d="M220 70 L255 190 L380 205 L285 285 L310 410 L220 345 L130 410 L155 285 L60 205 L185 190Z" fill="#fb7185" opacity=".82"/>
+<g fill="#fff" opacity=".75"><circle cx="428" cy="222" r="2"/><circle cx="69" cy="301" r="3"/><circle cx="130" cy="380" r="4"/><circle cx="191" cy="459" r="2"/><circle cx="252" cy="538" r="3"/><circle cx="313" cy="47" r="4"/><circle cx="374" cy="126" r="2"/><circle cx="15" cy="205" r="3"/><circle cx="76" cy="284" r="4"/><circle cx="137" cy="363" r="2"/><circle cx="198" cy="442" r="3"/><circle cx="259" cy="521" r="4"/><circle cx="320" cy="30" r="2"/><circle cx="381" cy="109" r="3"/><circle cx="22" cy="188" r="4"/><circle cx="83" cy="267" r="2"/><circle cx="144" cy="346" r="3"/><circle cx="205" cy="425" r="4"/></g>
+<rect x="22" y="425" width="396" height="150" rx="16" fill="#020617" opacity=".65"/>
+<text x="220" y="462" text-anchor="middle" fill="#fb7185" font-family="Georgia,serif" font-size="15" letter-spacing="4">STORYVERSE • 34</text>
+<text x="220" y="505" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="30" font-weight="bold">The Day Gravity Paused</text>
+<text x="220" y="540" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="15">by Maxine Reyes</text>
+</svg>

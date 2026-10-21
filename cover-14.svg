@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3f1d2e"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="440" height="600" rx="24" fill="url(#g)"/><path d="M220 70 L255 190 L380 205 L285 285 L310 410 L220 345 L130 410 L155 285 L60 205 L185 190Z" fill="#fb7185" opacity=".82"/>
+<g fill="#fff" opacity=".75"><circle cx="108" cy="332" r="2"/><circle cx="169" cy="411" r="3"/><circle cx="230" cy="490" r="4"/><circle cx="291" cy="569" r="2"/><circle cx="352" cy="78" r="3"/><circle cx="413" cy="157" r="4"/><circle cx="54" cy="236" r="2"/><circle cx="115" cy="315" r="3"/><circle cx="176" cy="394" r="4"/><circle cx="237" cy="473" r="2"/><circle cx="298" cy="552" r="3"/><circle cx="359" cy="61" r="4"/><circle cx="420" cy="140" r="2"/><circle cx="61" cy="219" r="3"/><circle cx="122" cy="298" r="4"/><circle cx="183" cy="377" r="2"/><circle cx="244" cy="456" r="3"/><circle cx="305" cy="535" r="4"/></g>
+<rect x="22" y="425" width="396" height="150" rx="16" fill="#020617" opacity=".65"/>
+<text x="220" y="462" text-anchor="middle" fill="#fb7185" font-family="Georgia,serif" font-size="15" letter-spacing="4">STORYVERSE • 14</text>
+<text x="220" y="505" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="30" font-weight="bold">The Lucky Number</text>
+<text x="220" y="540" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="15">by Enzo Ramos</text>
+</svg>

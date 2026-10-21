@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e3a8a"/><stop offset="1" stop-color="#020617"/></linearGradient></defs>
+<rect width="1000" height="520" fill="url(#bg)"/>
+<circle cx="770" cy="120" r="95" fill="#93c5fd" opacity=".75"/>
+<path d="M0 430 Q170 300 340 420 T680 400 T1000 390 V520 H0Z" fill="#93c5fd" opacity=".3"/>
+<path d="M80 390 Q240 260 400 390 T720 370" stroke="#93c5fd" stroke-width="5" fill="none" opacity=".8"/>
+<g fill="#fff" opacity=".7"><circle cx="921" cy="259" r="2"/><circle cx="34" cy="312" r="3"/><circle cx="117" cy="365" r="4"/><circle cx="200" cy="418" r="2"/><circle cx="283" cy="471" r="3"/><circle cx="366" cy="44" r="4"/><circle cx="449" cy="97" r="2"/><circle cx="532" cy="150" r="3"/><circle cx="615" cy="203" r="4"/><circle cx="698" cy="256" r="2"/><circle cx="781" cy="309" r="3"/><circle cx="864" cy="362" r="4"/><circle cx="947" cy="415" r="2"/><circle cx="60" cy="468" r="3"/><circle cx="143" cy="41" r="4"/><circle cx="226" cy="94" r="2"/><circle cx="309" cy="147" r="3"/><circle cx="392" cy="200" r="4"/><circle cx="475" cy="253" r="2"/><circle cx="558" cy="306" r="3"/><circle cx="641" cy="359" r="4"/><circle cx="724" cy="412" r="2"/><circle cx="807" cy="465" r="3"/><circle cx="890" cy="38" r="4"/></g>
+<text x="55" y="80" fill="#93c5fd" font-family="Arial,sans-serif" font-size="20" letter-spacing="6">STORYVERSE • STORY SCENE</text>
+<text x="55" y="145" fill="#fff" font-family="Georgia,serif" font-size="38">The Glass Planet</text>
+<text x="55" y="190" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="20">Dystopian Sci-Fi • Chapter One</text>
+</svg>

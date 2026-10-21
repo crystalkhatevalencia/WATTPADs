@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1e3a8a"/><stop offset="1" stop-color="#020617"/></linearGradient></defs>
+<rect width="1000" height="520" fill="url(#bg)"/>
+<circle cx="770" cy="120" r="95" fill="#93c5fd" opacity=".75"/>
+<path d="M0 430 Q170 300 340 420 T680 400 T1000 390 V520 H0Z" fill="#93c5fd" opacity=".3"/>
+<path d="M80 390 Q240 260 400 390 T720 370" stroke="#93c5fd" stroke-width="5" fill="none" opacity=".8"/>
+<g fill="#fff" opacity=".7"><circle cx="551" cy="359" r="2"/><circle cx="634" cy="412" r="3"/><circle cx="717" cy="465" r="4"/><circle cx="800" cy="38" r="2"/><circle cx="883" cy="91" r="3"/><circle cx="966" cy="144" r="4"/><circle cx="79" cy="197" r="2"/><circle cx="162" cy="250" r="3"/><circle cx="245" cy="303" r="4"/><circle cx="328" cy="356" r="2"/><circle cx="411" cy="409" r="3"/><circle cx="494" cy="462" r="4"/><circle cx="577" cy="35" r="2"/><circle cx="660" cy="88" r="3"/><circle cx="743" cy="141" r="4"/><circle cx="826" cy="194" r="2"/><circle cx="909" cy="247" r="3"/><circle cx="22" cy="300" r="4"/><circle cx="105" cy="353" r="2"/><circle cx="188" cy="406" r="3"/><circle cx="271" cy="459" r="4"/><circle cx="354" cy="32" r="2"/><circle cx="437" cy="85" r="3"/><circle cx="520" cy="138" r="4"/></g>
+<text x="55" y="80" fill="#93c5fd" font-family="Arial,sans-serif" font-size="20" letter-spacing="6">STORYVERSE • STORY SCENE</text>
+<text x="55" y="145" fill="#fff" font-family="Georgia,serif" font-size="38">The Goal Beyond the Net</text>
+<text x="55" y="190" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="20">Sports • Chapter One</text>
+</svg>

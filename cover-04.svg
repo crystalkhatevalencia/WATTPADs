@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="600" viewBox="0 0 440 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3f1d2e"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+<rect width="440" height="600" rx="24" fill="url(#g)"/><path d="M70 390 Q220 100 370 390Z" fill="#fb7185" opacity=".65"/><circle cx="220" cy="230" r="45" fill="#fb7185"/>
+<g fill="#fff" opacity=".75"><circle cx="158" cy="102" r="2"/><circle cx="219" cy="181" r="3"/><circle cx="280" cy="260" r="4"/><circle cx="341" cy="339" r="2"/><circle cx="402" cy="418" r="3"/><circle cx="43" cy="497" r="4"/><circle cx="104" cy="576" r="2"/><circle cx="165" cy="85" r="3"/><circle cx="226" cy="164" r="4"/><circle cx="287" cy="243" r="2"/><circle cx="348" cy="322" r="3"/><circle cx="409" cy="401" r="4"/><circle cx="50" cy="480" r="2"/><circle cx="111" cy="559" r="3"/><circle cx="172" cy="68" r="4"/><circle cx="233" cy="147" r="2"/><circle cx="294" cy="226" r="3"/><circle cx="355" cy="305" r="4"/></g>
+<rect x="22" y="425" width="396" height="150" rx="16" fill="#020617" opacity=".65"/>
+<text x="220" y="462" text-anchor="middle" fill="#fb7185" font-family="Georgia,serif" font-size="15" letter-spacing="4">STORYVERSE • 04</text>
+<text x="220" y="505" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-size="30" font-weight="bold">The Algorithm of Us</text>
+<text x="220" y="540" text-anchor="middle" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="15">by Mika Flores</text>
+</svg>

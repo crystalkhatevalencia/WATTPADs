@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#312e81"/><stop offset="1" stop-color="#020617"/></linearGradient></defs>
+<rect width="1000" height="520" fill="url(#bg)"/>
+<circle cx="770" cy="120" r="95" fill="#c084fc" opacity=".75"/>
+<path d="M0 430 Q170 300 340 420 T680 400 T1000 390 V520 H0Z" fill="#c084fc" opacity=".3"/>
+<path d="M80 390 Q240 260 400 390 T720 370" stroke="#c084fc" stroke-width="5" fill="none" opacity=".8"/>
+<g fill="#fff" opacity=".7"><circle cx="149" cy="101" r="2"/><circle cx="232" cy="154" r="3"/><circle cx="315" cy="207" r="4"/><circle cx="398" cy="260" r="2"/><circle cx="481" cy="313" r="3"/><circle cx="564" cy="366" r="4"/><circle cx="647" cy="419" r="2"/><circle cx="730" cy="472" r="3"/><circle cx="813" cy="45" r="4"/><circle cx="896" cy="98" r="2"/><circle cx="979" cy="151" r="3"/><circle cx="92" cy="204" r="4"/><circle cx="175" cy="257" r="2"/><circle cx="258" cy="310" r="3"/><circle cx="341" cy="363" r="4"/><circle cx="424" cy="416" r="2"/><circle cx="507" cy="469" r="3"/><circle cx="590" cy="42" r="4"/><circle cx="673" cy="95" r="2"/><circle cx="756" cy="148" r="3"/><circle cx="839" cy="201" r="4"/><circle cx="922" cy="254" r="2"/><circle cx="35" cy="307" r="3"/><circle cx="118" cy="360" r="4"/></g>
+<text x="55" y="80" fill="#c084fc" font-family="Arial,sans-serif" font-size="20" letter-spacing="6">STORYVERSE • STORY SCENE</text>
+<text x="55" y="145" fill="#fff" font-family="Georgia,serif" font-size="38">The Last Dragon Keeper</text>
+<text x="55" y="190" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="20">Fantasy • Chapter One</text>
+</svg>
